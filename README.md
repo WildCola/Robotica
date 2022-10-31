@@ -1,6 +1,6 @@
 # Robotica
 
-#Tema 1
+<h3>Tema 1</h3>
 
 Proiectul reprezintă un LED rgb ale cărui culori sunt controlate individual de 3 potențiometru.
 Input-ul potențiometrelor este preluat de placa arduino, transformat intr-o valoare cuprinsa între 0 și 256 (range-ul de intensitate a LED-ului) și transmis către LED
