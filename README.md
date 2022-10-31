@@ -27,8 +27,12 @@ Tema 2 a cerut construirea unui sistem de semafoare pentru masini si pietoni. Ac
 </ol>
 
 Proiectul a fost realizat prin folosirea unui buton, care porneste un contor de timp in momentul apasarii cu ajutorul unei functii interrupt, apoi la momentele cheie de timp descrise mai sus, placa arduino trimete semnale LED-urilor si buzzer-ului pentru a le duce in starea corespunzatoare intervalului de timp.
+  
+Source code: https://github.com/WildCola/Robotica/blob/main/crosswalk/crosswalk.ino
 
 Link către video: https://www.youtube.com/shorts/QCxIFdsp5OE
 
 ![image](https://user-images.githubusercontent.com/79272874/199129636-cfa44ddb-e8ab-4500-9569-8cc49e441189.png)
+  
+</details>
 
