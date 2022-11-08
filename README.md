@@ -1,7 +1,7 @@
 # Introducere In Robotica
 
 <details>
-<summary>Tema 1</summary>
+  <summary><h3>Tema 1</h3></summary>
 
 <br>
 Proiectul de la tema 1 este un LED rgb ale cărui culori sunt controlate individual de 3 potențiometre.
@@ -15,7 +15,7 @@ Link către video: https://youtu.be/Gh3H4ZXLa54
 </details>
 
 <details>
-  <summary><h1>Tema 2</h2></summary>
+  <summary><h3>Tema 2</h3></summary>
 
 <br>
 Tema 2 a cerut construirea unui sistem de semafoare pentru masini si pietoni. Acesta are 4 stari:
@@ -35,6 +35,9 @@ Link către video: https://www.youtube.com/shorts/QCxIFdsp5OE
 ![image](https://user-images.githubusercontent.com/79272874/199129636-cfa44ddb-e8ab-4500-9569-8cc49e441189.png)
   
 </details>
+
+<details>
+  <summary><h3>Tema 3</h3></summary>
 
 <br>
 Tema 3 - Desenezi pe un seven segment display cu ajutorul unui joystick. Are 2 stadii:
