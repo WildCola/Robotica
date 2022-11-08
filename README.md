@@ -15,7 +15,7 @@ Link către video: https://youtu.be/Gh3H4ZXLa54
 </details>
 
 <details>
-<summary>Tema 2</summary>
+  <summary><h1>Tema 2</h2></summary>
 
 <br>
 Tema 2 a cerut construirea unui sistem de semafoare pentru masini si pietoni. Acesta are 4 stari:
@@ -50,5 +50,7 @@ Source code: https://github.com/WildCola/Robotica/blob/main/joystick/joystick.in
 Link catre video: https://youtube.com/shorts/hWmcDOIERwg
 
 ![image](https://user-images.githubusercontent.com/79272874/200663000-821bd8a3-1da8-457c-b45a-4801c569c4ea.png)
+  
+</details>
 
 
