@@ -44,6 +44,7 @@ Tema 3 - Desenezi pe un seven segment display cu ajutorul unui joystick. Are 2 s
 <ol>
 <li> Poti folosi joystick-ul pentru a naviga segmentele display-ului. Segmentul selectat se aprinde si stinge intermitent. O apasare scurta a butonului de pe joystick trece in stadiul 2. O apasare lunga reseteaza display-ul si te muta pe DP.
 <li> Segmentul selectat ramane in starea (stins sau aprins) in care se afla la apasarea butonului. Axa X a joystick-ului stinge sau aprinde segmentul. Apasarea butonului salveaza starea curenta a segmentului si trece inapoi in stadiul 1.
+</ol>
 
 Pentru navigarea display-ului am folosit o matrice de vecini (fiecare segment are 4 vecini, cate unul pentru fiecare directie a joystick-ului).
 Pentru a diferentia intre apasarea scurta si cea lunga a butonului am folosit un cronomentru care porneste la apasarea butonului. Daca butonul este ridicat in mai putin de o secunde programul inregistreaza o apasare scurta si trece in stadiul 2, daca butonul este apasat pentru mai mult de o secunda display-ul va fi resetat.
