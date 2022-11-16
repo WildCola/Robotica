@@ -65,7 +65,7 @@ Tema 4 - Joystick cu care reglezi cifrele unui 4 Digit Display. Programul are 2 
 <ol>
 <li> Folosesti axa Y a joystick-ului pentru a naviga cele patru pozitii ale display-ului, cifra selectata este indicata prin clipirea segmentului DP. O apasare scurta de buton de duce in starea 2, o apasare lunga reseteaza toate cifrele la 0 si te muta pe pozitia cea mai din dreapta.
 <li> Folosesti axa X pentru a creste sau a scadea cifra de pe segmentul selectat inaintea intrarii in starea 2. Apasarea butonului salveaza cifra modificata si te duce inapoi in starea 1.
-<ol>
+</ol>
 
 Pentru navigarea pozitilor display-ului am folosit o variabila ce retine display-ul curent selectat, aceasta variabila creste sau scade cu miscarea axei Y a joystick-ului. Pentru schimbarea cifrei am folosit un array de 4 elemente, in care maream sau scadeam valoarea elementului corespunzator pozitiei selectate pe display cu miscarea axei X a joystick-ului. 
 Pentru a diferentia intre apasarea scurta si cea lunga a butonului am folosit un cronomentru care porneste la apasarea butonului. Daca butonul este ridicat in mai putin de o secunde programul inregistreaza o apasare scurta si trece in stadiul 2, daca butonul este apasat pentru mai mult de o secunda display-ul va fi resetat.
@@ -75,5 +75,7 @@ Source code: https://github.com/WildCola/Robotica/blob/main/4digit/4digit.ino
 Link catre video: https://youtube.com/shorts/pcH-yyNJsJI
 
 ![image](https://user-images.githubusercontent.com/79272874/202056975-73ac43b4-55e4-4e66-a824-88118d336c76.png)
+  
+</details>
 
 
